@@ -1,35 +1,103 @@
 
-## Techs
 
-Next.js
-React.js
-TypeScript
+<h1 align="center">
+  <img src='github/favicon.png' alt='MoveIt - Favicon' width=30 /> 
+  MoveIt
+</h1>
 
-## Requeriments
+# Indice
 
-Git installed
-Node installed
-Npm or Yarn installed
+- 📝️ [Sobre](#%EF%B8%8F-sobre)
+- 🖥 [Preview](#-preview)
+- 👨‍💻️ [Tecnogias utilizadas](#%EF%B8%8F-tecnogias-utilizadas)
+- 📋️ [IDE e Facilidades](#%EF%B8%8F-ide-e-facilidades)
+- 📦️ [Como baixar o projeto](#%EF%B8%8F-como-baixar-o-projeto)
+- 🤔️ [Como contribuir](#%EF%B8%8F-como-contribuir)
 
-## Getting Started
+---
 
-First, do a git clone of:
+## 📝️ Sobre
 
-https://github.com/MiDrAjX/NLW4.0-Moveit-next.git
+O projeto foi desenvolvido durante a NLW4 (Next Level Week 4), um evento promovido pela [Rocketseat](https://rocketseat.com.br/).
 
-install the dependencies:
+O MoveIt é um sistema para aplicação da tecnica pomodoro de uma forma mais interativa.
+
+Caso você queria ver todo o layout no prototipo é só [clicar aqui](https://www.figma.com/file/ge20pu3ofMOKoliUyKx1Nl/Move.it-1.0).
+
+---
+
+## 🖥 Preview
+
+<h3 align="center">
+  Home
+</h3>
+
+<h3 align="center">
+  <img src='github/Home Inicio.png' alt='MoveIt Home Preview' width=800 />
+</h3>
+
+<h3 align="center">
+  Ciclo Finalizado
+</h3>
+
+<h3 align="center">
+  <img src='github/Home Encerrado.png' alt='MoveIt Ciclo de Pomodoro Finalizado Preview' width=800 />
+</h3>
+
+<h3 align="center">
+  Level Up
+</h3>
+
+<h3 align="center">
+  <img src='github/Home Level Up.png' alt='MoveIt Level Up Preview' width=800 />
+</h3>
+
+---
+
+## 👨‍💻️ Tecnogias utilizadas
+
+O projeto foi desenvolvido utilizando as seguintes tecnologias:
+
+- [TypeScript](https://www.npmjs.com/package/typescript)
+- (TO-DO...)
+
+---
+
+## 📋️ IDE e Facilidades
+
+- [Visual Studio Code](https://code.visualstudio.com/)
+
+---
+
+## 📦️ Como baixar o projeto
 
 ```bash
-npm install
-# or
-yarn install
+  # Clonar o repositório
+  ❯ git clone https://github.com/MiDrAjX/NLW4.0-Moveit-next.git
+
+  # Entrar no diretório
+  ❯ cd moveit
+
+  # Instalando as dependências
+  ❯ yarn
+  # ou pode usar o `npm`
+  ❯ npm install
 ```
 
-so, run the development server:
+## 🤔️ Como contribuir
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+1. Faça o `fork` deste repositório
+2. Crie uma branch com sua feature:
+   - `$ git checkout -b minha_feature`
+3. Confirme sua branch:
+   - `$ git commit -m "feature: Meu novo recurso"`
+4. Envie sua branch:
+   - `$ git push origin minha_feature`
 
+---
+
+<h4 align="center">
+  Feito com 💜 por Jeison 👋️ <a href="https://www.linkedin.com/in/jeison-marques/" target="_blank">Entre em contato!</a>
+</h4>
+
+---
